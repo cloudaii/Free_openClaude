@@ -1,5 +1,5 @@
-# OpenClaude
-  Android & Pc
+# OpenClaude:
+## Android & Pc
 
 Get OpenClaude running directly from your terminal in seconds. This fully automated, non-interactive script is optimized for Android (Termux) and bypasses common permission and network issues.
 
@@ -15,8 +15,8 @@ PC users can follow our quick-start guide for a smooth installation. Start using
 
 • **Cross-Platform**: Run the exact same AI       agent on your smartphone and your desktop.
 
-# Install
-  (Android / Termux)
+# Install:
+## (Android / Termux)
 
 copy this command 
 
@@ -44,7 +44,7 @@ Because OpenClaude is an official NPM package, installing it on a PC is incredib
 You must have Node.js (v18 or higher) installed on your system. Download Node.js from the official website:
 https://nodejs.org/en
 
-# Setup
+## Setup
 
 Open your terminal (Command Prompt, PowerShell, or standard Terminal) and run:
 
