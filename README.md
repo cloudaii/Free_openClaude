@@ -1,4 +1,5 @@
-# OpenClaude Android & Pc
+# OpenClaude
+  Android & Pc
 
 Get OpenClaude running directly from your terminal in seconds. This fully automated, non-interactive script is optimized for Android (Termux) and bypasses common permission and network issues.
 
@@ -14,12 +15,13 @@ PC users can follow our quick-start guide for a smooth installation. Start using
 
 • **Cross-Platform**: Run the exact same AI       agent on your smartphone and your desktop.
 
-# Install (Android / Termux)
+# Install
+  (Android / Termux)
 
 copy this command 
 
 ```
-curl -sL "https://raw.githubusercontent.com/cloudaii/Free_claude/main/vanila_install.sh" | bash
+curl -sL "https://raw.githubusercontent.com/cloudaii/Free_openClaude/main/vanila_install.sh" | bash
 ```
 Note: The script will automatically update your packages, install Node.js, fix the Termux DNS routing, and globally install the @gitlawb/openclaude package.
 
