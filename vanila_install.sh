@@ -42,7 +42,7 @@ if ! grep -q "NODE_OPTIONS=--dns-result-order=ipv4first" ~/.bashrc 2>/dev/null; 
 fi
 export NODE_OPTIONS=--dns-result-order=ipv4first
 
-npm install -g @gitlawb/openclaude </dev/null 2>&1
+npm install -g @gitlawb/openclaude@latest </dev/null 2>&1
 
 echo "✅ OpenClaude installed"
 
