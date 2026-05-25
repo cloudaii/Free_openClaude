@@ -47,7 +47,7 @@ https://nodejs.org/en
 Open your terminal (Command Prompt, PowerShell, or standard Terminal) and run:
 
 ```
-npm install -g @gitlawb/openclaude
+npm install -g @gitlawb/openclaude@latest
 ```
 
 ## Start
@@ -58,7 +58,7 @@ openclaude
 **For Linux/macOS users**: If you get a permission error, you may need to run
 
 ```
-sudo npm install -g @gitlawb/openclaude
+sudo npm install -g @gitlawb/openclaude@latest
 ```
 
 
