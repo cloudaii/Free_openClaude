@@ -61,6 +61,8 @@ openclaude
 sudo npm install -g @gitlawb/openclaude@latest
 ```
 
+**API KEY**
+here: https://gitlawb.com/opengateway/keys
 
 
 
